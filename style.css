@@ -4,7 +4,8 @@ body{
   background-color: #ffc8dd;
 }
 
-banner{
+.banner{
+  text-align: center;
   border: 5px solid;
   border-radius: 30px;
 }
