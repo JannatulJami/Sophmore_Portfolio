@@ -23,3 +23,7 @@ width: 50%;
 height: 160px;
 overflow: scroll;
 }
+
+a:link{
+color: #CF96B0;
+}
