@@ -11,7 +11,7 @@ body{
   color: lavenderblush;
   border-radius: 30px;
   border-color: #feb1b7;
-  background-color: #fe788b;
+  background-image: url('images/heart.jpg');
 }
 
 .description{
