@@ -22,6 +22,7 @@ padding: 4px;
 width: 50%;
 height: 160px;
 overflow: scroll;
+padding: 5px;
 }
 
 a:link{
