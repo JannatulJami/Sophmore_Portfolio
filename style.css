@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Baloo+Chettan+2&family=Calligraffitti&display=swap');
 
 body{
-  background-color: #ffc8dd;
+  background-color: #FFE8F2;
 }
 
 .banner{
@@ -15,7 +15,6 @@ body{
 }
 .bottom_hrt{
 font-size: 20px;
-width: 20px;
 }
 
 .description{
