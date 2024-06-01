@@ -17,7 +17,7 @@ body{
 .description{
 border: 10px solid;
 border-image: repeating-linear-gradient(45deg, #FF95B8, #f0cced, #ffadd9 30px) 60;
-font-family: Brush Script MT, Brush Script Std, cursive
+font-family: Brush Script MT, Brush Script Std, cursive;
 padding: 4px;
 width: 50%;
 height: 160px;
