@@ -15,6 +15,19 @@ body{
   background-image: url('images/pinkbg.jpg');
 }
 
+.wave {
+width: 110px;
+transition: height 2s;
+text-align: center; 
+overflow: hidden;
+height: 49px;
+position: relative;
+}
+.wave:hover{
+	height:90%;
+	top:1px;
+	z-index:1;
+}
 .description{
 border: 10px solid;
 border-image: repeating-linear-gradient(45deg, #FF95B8, #f0cced, #ffadd9 30px) 60;
