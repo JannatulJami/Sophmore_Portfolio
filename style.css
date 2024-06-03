@@ -18,7 +18,7 @@ body{
 .wave {
 width: 45px;
 transition: height 2s;
-text-align: center; 
+text-align: left; 
 overflow: hidden;
 height: 25px;
 position: relative;
