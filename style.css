@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Baloo+Chettan+2&family=Calligraffitti&display=swap');
-
+@import url('https://fonts.googleapis.com/css?family=Dancing Script');
 body{
   background-color: #FFF0F7;
 }
@@ -9,6 +9,7 @@ body{
   border: 10px solid;
   text-shadow: 1px 1px #fdddf3 ;
   color: white;
+  font-family: 'Dancing Script';
   border-radius: 30px;
   border-color: #FFC4DF;
   background-image: url('images/pinkbg.jpg');
