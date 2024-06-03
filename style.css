@@ -20,8 +20,8 @@ border: 10px solid;
 border-image: repeating-linear-gradient(45deg, #FF95B8, #f0cced, #ffadd9 30px) 60;
 font-family: 'Dancing Script';
 padding: 4px;
-width: 50%;
-height: 160px;
+width: 150px;
+height: 200px;
 overflow: scroll;
 padding: 5px;
 }
