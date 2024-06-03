@@ -16,11 +16,11 @@ body{
 }
 
 .wave {
-width: 10%;
+width: 45px;
 transition: height 2s;
 text-align: center; 
 overflow: hidden;
-height: 49px;
+height: 25px;
 position: relative;
 display: inline;
 }
