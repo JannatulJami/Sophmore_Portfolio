@@ -20,10 +20,10 @@ width: 45px;
 transition: height 2s;
 text-align: left; 
 overflow: hidden;
-height: 35px;
+height: 5%;
 position: relative;
 display: inline;
-border: 5px solid;
+border: 10px solid;
 border-color: #FFC4DF;
 }
 .wave:hover{
