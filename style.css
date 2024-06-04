@@ -28,9 +28,10 @@ position: relative;
 }
 .left{
 position: absolute;
+border: 10px solid;
 border-image: repeating-linear-gradient(45deg, #9a74a4, #f0cced, #ffadd9 30px) 60;
 left: 10px; 
-border: solid 10px;
+
 }	
 .wave {
 width: 45px;
