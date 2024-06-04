@@ -14,7 +14,12 @@ body{
   border-color: #FFC4DF;
   background-image: url('images/pinkbg.jpg');
 }
-
+.left{
+position: absolute;
+border-image: repeating-linear-gradient(45deg, #9a74a4, #f0cced, #ffadd9 30px) 60;
+border: 5px solid;
+left: 10px; 
+}	
 .wave {
 width: 45px;
 transition: height 2s;
