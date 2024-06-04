@@ -28,8 +28,8 @@ position: relative;
 }
 .left{
 position: absolute;
-border: 10px solid;
-border-image: url('images/starry.jpg');
+border: 10px solid transparent;
+border-image: url('images/starry.jpg') 30 round;
 left: 10px; 
 
 }	
