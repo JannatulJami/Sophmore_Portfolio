@@ -14,6 +14,8 @@ body{
   border-color: #FFC4DF;
   background-image: url('images/pinkbg.jpg');
 }
+.container{
+position: relative;
 .left{
 position: absolute;
 border-image: repeating-linear-gradient(45deg, #9a74a4, #f0cced, #ffadd9 30px) 60;
