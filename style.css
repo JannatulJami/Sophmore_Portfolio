@@ -14,8 +14,18 @@ body{
   border-color: #FFC4DF;
   background-image: url('images/pinkbg.jpg');
 }
+.banner1{
+  text-align: center;
+  border: 10px solid;
+  text-shadow: 5px 5px #fdddf3 ;
+  font-family: 'Dancing Script';
+  border-radius: 30px;
+  border-color: #CDA2C7;
+  background-image: url('images/starry.jpg');
+}
 .container{
 position: relative;
+}
 .left{
 position: absolute;
 border-image: repeating-linear-gradient(45deg, #9a74a4, #f0cced, #ffadd9 30px) 60;
