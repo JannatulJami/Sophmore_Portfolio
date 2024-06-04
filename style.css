@@ -30,13 +30,13 @@ position: relative;
 position: absolute;
 border: 10px solid transparent;
 border-image: url('images/starry.jpg') 30 round;
-left: 350px; 
+left: 10px; 
 }
 .middle{
 position: absolute;
 border: 10px solid transparent;
 border-image: url('images/starry.jpg') 30 round;
-left: 310px;
+left: 340px;
 }
 .wave {
 width: 45px;
