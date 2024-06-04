@@ -31,7 +31,13 @@ position: absolute;
 border: 10px solid transparent;
 border-image: url('images/starry.jpg') 30 round;
 left: 10px; 
-}	
+}
+.middle{
+position: absolute;
+border: 10px solid transparent;
+border-image: url('images/starry.jpg') 30 round;
+left: 210px;
+}
 .wave {
 width: 45px;
 transition: height 2s;
