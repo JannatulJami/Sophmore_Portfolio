@@ -20,9 +20,11 @@ width: 45px;
 transition: height 2s;
 text-align: left; 
 overflow: hidden;
-height: 25px;
+height: 35px;
 position: relative;
 display: inline;
+border: 5px solid;
+border-color: #FFC4DF;
 }
 .wave:hover{
 	height:90%;
@@ -40,7 +42,9 @@ overflow: scroll;
 padding: 5px;
 }
 .lab { 
-border-image : repeating-linear-gradient(45deg, #FF95B8, #f0cced, #ffadd9 30px) 60;
+border-image: repeating-linear-gradient(45deg, #FF95B8, #f0cced, #ffadd9 30px) 60;
+overflow: hidden;
+height: 100px;
 }
 a:link{
 color: #D3AACD;
