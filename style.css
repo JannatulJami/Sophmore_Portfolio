@@ -23,6 +23,16 @@ body{
   border-color: #CDA2C7;
   background-image: url('images/starry.jpg');
 }
+.banner2{
+text-align: center;
+  border: 10px solid;
+  text-shadow: 5px 5px #fdddf3 ;
+  font-family: 'Dancing Script';
+  border-radius: 30px;
+  color: #FC83B0;
+  border-color: #FF6BA3;
+  background-image: url('images/fruity.jpg');
+}
 .container{
 position: relative;
 }
