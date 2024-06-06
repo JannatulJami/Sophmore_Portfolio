@@ -52,7 +52,6 @@ right: 10px;
 position: absolute;
 border: 10px solid transparent;
 border-image: url('images/starry.jpg') 30 round;
-left: 390px;
 }
 .wave {
 width: 45px;
