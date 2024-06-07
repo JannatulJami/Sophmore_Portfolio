@@ -50,13 +50,11 @@ position: relative;
 .left{
 position: absolute;
 border: 10px solid transparent;
-border-image: url('images/starry.jpg') 30 round;
 left: 10px; 
 }
 .right{
 position: absolute;
 border: 10px solid transparent;
-border-image: url('images/starry.jpg') 30 round;
 right: 10px; 
 }
 .middle{
