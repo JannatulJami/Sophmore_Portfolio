@@ -80,7 +80,7 @@ border-color: #FFC4DF;
 }
 .description{
 border: 10px solid;
-border: #fdddf3 ;
+border-color: #FEDEEC;
 border-radius: 10px;
 font-family: 'Dancing Script';
 color: whitesmoke;
@@ -89,7 +89,8 @@ padding: 4px;
 width: 170px;
 height: 200px;
 overflow: scroll;
-padding: 10px;
+padding: 20px;
+text-shadow: 5px 5px #FFE7F2 ;
 }
 .lab { 
 border-image: repeating-linear-gradient(45deg, #FF95B8, #f0cced, #ffadd9 30px) 60;
