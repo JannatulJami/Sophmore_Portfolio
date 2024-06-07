@@ -60,7 +60,6 @@ right: 10px;
 .middle{
 position: absolute;
 border: 10px solid transparent;
-border-image: url('images/starry.jpg') 30 round;
 right: 385px;
 }
 .wave {
