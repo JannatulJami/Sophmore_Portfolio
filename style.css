@@ -33,6 +33,17 @@ text-align: center;
   border-color: #E79AB7;
   background-image: url('images/colors.jpg');
 }
+#banner3{
+text-align: center;
+  border: 10px solid;
+  text-shadow: 5px 5px #FAA8CC ;
+  font-family: 'Dancing Script';
+  border-radius: 30px;
+  color: #FFA8CE;
+  border-color: #FEDEEC;
+  background-image: url('images/co.jpg');
+
+}
 .container{
 position: relative;
 }
